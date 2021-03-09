@@ -1,2 +1,4 @@
 Hello git!
 Dette er en endring
+Dette er også en endring
+
